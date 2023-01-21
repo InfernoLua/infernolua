@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @infernolua
-- 👀 I’m interested in proggraming, learning english, and play games.
+- 👀 I’m interested in programming, learning english, and play games.
 - 🌱 I’m currently learning GLUA (Garry's Mod Lua), little bit of coding on python, c#, and i want to learning golang
-- 💞️ I’m work on LeakGM , Deputy Owner :)
+- 💞️ I’m work on LeakGM ,  Owner :)
 - 📫 How to reach me only VK, Discord. 
 - https://vk.com/infernolua
 - By the way I'm from Kazakstan , salem!
