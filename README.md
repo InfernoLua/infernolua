@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @infernolua
-- 👀 I’m interested in programming, learning languages, and play games.
-- 🌱 I’m currently learning GLUA (Garry's Mod Lua), little bit of coding on html css, but it's not programming languages xd) and can write some shit on js.
-- 💞️ I’m work on LeakGM ,  Owner :)
-- 📫 How to reach me only TG, Discord. 
+- 👀 I’m interested in programming, learning languages, and play dota rust.
+- 🌱 I’m currently writing in shitty glua
+- 📫 Discord. 
 - 👨‍💻 Always wait orders.
-- Inferno#5722
-- https://t.me/infernolua
-- Btw I'm from Kazakstan.
+- Penis
+- https://t.me/infernolua1337
+
 
 <!---
 infernolua/infernolua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
